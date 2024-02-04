@@ -1,2 +1,2 @@
 echo "printing date"
-date >> systemdate.txt
+date>>systemdate.txt
